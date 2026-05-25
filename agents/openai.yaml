@@ -1,0 +1,16 @@
+interface:
+  display_name: Commercial Storyboard Generator
+  short_description: Turn product briefs into commercial storyboard boards, 10-panel
+    ad flows, and final image prompts.
+  category: creative
+  icon: film
+  color: blue
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

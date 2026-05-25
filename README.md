@@ -1,0 +1,2 @@
+# commercial-storyboard-generator
+將目前市面上最熱門的GPT Images一頁式10分鏡腳本組合成skill
